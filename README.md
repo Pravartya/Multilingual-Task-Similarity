@@ -47,7 +47,7 @@ labels on the evaluation dataset for different models
 and loss functions are shown in table below: 
 
 | Model Name  | MSE Loss | L1 Loss |
-| ------------- | ------------- |
+| ------------- | ------------- | ------------- |
 | mBERT  | 0.7325  | 0.7198 |
 | XLM-RoBERTa-Base  | 0.5915  | 0.4276 |
 | XLM-RoBERTa-Large  | 0.3188  | 0.2234 |
