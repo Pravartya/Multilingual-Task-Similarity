@@ -1,0 +1,4 @@
+Install git+https://github.com/huggingface/transformers.git
+install sentence-transformers
+
+These are the requirements needed.
