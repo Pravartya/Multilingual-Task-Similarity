@@ -18,6 +18,7 @@ neural network model -->
 https://drive.google.com/file/d/1PeBsgRKWyNQdfmc1VInYlHmtKvjpzy1B/view?usp=sharing
 
 
-# Requirements : 
-Install git+https://github.com/huggingface/transformers.git
+**Requirements** : 
+install git+https://github.com/huggingface/transformers.git
+
 install sentence-transformers
