@@ -1,4 +1,4 @@
-# Mutlilingual-Task-Similarity
+# Multilingual-Task-Similarity
 
 
 The objective of this project is developing the
